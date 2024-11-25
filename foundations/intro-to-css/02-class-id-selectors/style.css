@@ -1,0 +1,16 @@
+.Odd_numbers{
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.Odd_numbers.third{
+    font-size: 24px;
+}
+#second{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+#fourth{
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
